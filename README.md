@@ -26,7 +26,13 @@ CropGuard is a deep learning-based system that detects plant diseases from image
 - Architecture: ResNet50 + Custom Layers
 - Techniques: Data Augmentation, Dropout, Early Stopping
 
-## ▶️ How to Run
+## ▶️ How to Run 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+##🌍 Future Scope
+-Mobile app integration
+Real-time detection
+Larger dataset training
