@@ -1,0 +1,8 @@
+git clone https://github.com/your-username/CropGuard-Plant-Disease-Detection.git
+cd CropGuard-Plant-Disease-Detection
+
+# Copy your project files into this folder
+
+git add .
+git commit -m "Initial commit - CropGuard project"
+git push origin main
